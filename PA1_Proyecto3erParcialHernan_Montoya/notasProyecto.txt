@@ -1,0 +1,5 @@
+Nota:
+base de datos creada con xampp
+usuario: root
+contraseña:""
+
